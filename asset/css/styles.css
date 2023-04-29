@@ -580,6 +580,7 @@ a {
     justify-content: center;
     align-items: center;
     margin-left: 16px;
+    background: #f9f9f9;
 }
 .footer .social-link:first-child {
     margin-left: 0;
