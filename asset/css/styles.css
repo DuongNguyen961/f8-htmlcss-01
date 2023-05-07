@@ -296,7 +296,7 @@ a {
 }
 
 .featured .item {
-    flex-grow: 1; /* Tự động mở rộng để đạt kích thước bằng nhau */
+    flex: 1; /* Tự động mở rộng để đạt kích thước bằng nhau */
     background: #ffffff;
     border-radius: 12px;
 }
